@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189921742652",
+    "firebase_url": "https://facebooklogin-7045e.firebaseio.com",
+    "project_id": "facebooklogin-7045e",
+    "storage_bucket": "facebooklogin-7045e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189921742652:android:2bfa48d22185aaf8465839",
+        "android_client_info": {
+          "package_name": "com.example.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189921742652-pddf4n2ktcse3eo0vsh5no0441hmamk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebooklogin",
+            "certificate_hash": "a5a9e283b5af87ec4d804d8da3db18440e8678c5"
+          }
+        },
+        {
+          "client_id": "189921742652-s1rln2hi8pglk0ok7mgd3t0f134fr9vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLaRZUK9-R5zeaFT1bPl4jDvhxI1p_YgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189921742652-s1rln2hi8pglk0ok7mgd3t0f134fr9vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
